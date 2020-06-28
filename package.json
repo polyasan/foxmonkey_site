@@ -1,0 +1,23 @@
+{
+  "name": "foxmonkey_site",
+  "version": "1.0.0",
+  "description": "FoxMondey website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polyasan/foxmonkey_site.git"
+  },
+  "author": "Laszlo Bulatko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/polyasan/foxmonkey_site/issues"
+  },
+  "homepage": "https://github.com/polyasan/foxmonkey_site#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
